@@ -23,7 +23,7 @@ Projekt zadane zadaće nastoji riješiti problem nezadovoljstva studenata s odre
 Kreiranje programskog proizvoda za zahtjev omogućit će studentima recenziranje jela u menzi kao i stvaranje  à la carte narudžbi.
 
 ## Zadatak
-(U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)
+https://github.com/foivz/pi2024-zadace-slovric22.wiki.git
 
 ## Resursi
 (Zadaće je obvezno predati u obliku Wiki stranica na ovom repozitoriju. Slike i druge artefakte koje ćete koristiti na wiki stranicama smjestite u mapu dokumentacije u repozitoriju!)
